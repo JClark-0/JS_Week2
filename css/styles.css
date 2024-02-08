@@ -9,6 +9,11 @@ h2 {
   text-align: center;
   font-family: arial;
 }
+
+p {
+  text-align: center;
+  font-family: arial;
+}
 body ul {
   display: block;
   list-style: none;
